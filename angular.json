@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-huamao"
+    }
+  },
+  "defaultProject": "angular-huamao",
+  "cli": {
+    "analytics": "2274b81a-323c-4740-b775-80f412ba814c"
+  }
 }
